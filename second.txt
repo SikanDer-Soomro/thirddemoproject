@@ -1,3 +1,3 @@
 working on remote repo
 hello
-new changess
+new changes
