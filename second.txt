@@ -1,7 +1,0 @@
-working on remote repo
-<<<<<<< HEAD
-hello
-new changes
-=======
-hello
->>>>>>> parent of ee41cb9... updated second.txt
